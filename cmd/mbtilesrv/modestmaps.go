@@ -4,7 +4,7 @@ package main
 // so an mbtiles file can be displayed without further dependencies
 
 import (
-	"github.com/tajtiattila/go-mbtiles/mbtiles"
+	"github.com/Venator2013/go-mbtiles/mbtiles"
 	"html/template"
 	"net/http"
 )

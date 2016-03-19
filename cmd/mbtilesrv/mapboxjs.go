@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"github.com/tajtiattila/go-mbtiles/mbtiles"
+	"github.com/Venator2013/go-mbtiles/mbtiles"
 	"html"
 	"io/ioutil"
 	"net/http"

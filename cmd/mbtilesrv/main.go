@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"flag"
-	"github.com/tajtiattila/go-mbtiles/mbtiles"
+	"github.com/Venator2013/go-mbtiles/mbtiles"
 	"io"
 	"log"
 	"net"
